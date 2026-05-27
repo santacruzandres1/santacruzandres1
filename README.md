@@ -1,24 +1,127 @@
-<h1 align="center">Hi 👋, I'm Andres Santa Cruz!</h1>
-<h3 align="center">A passionate frontend developer from Misiones, Argentina!</h3>
+<!-- HEADER: capsule-render waving banner with teal/dark gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F6E56,100:0d1117&height=120&section=header&text=Andres%20Santa%20Cruz&fontSize=42&fontColor=5DCAA5&fontAlignY=65&animation=fadeIn"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santacruzandres1&label=Profile%20views&color=0e75b6&style=flat" alt="santacruzandres1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santacruzandres1" alt="santacruzandres1" /></a> </p>
-
-- 🔭 I’m currently working on **my personal portfolio**
-
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **andres123stacruz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andres-santa-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-santa-cruz" height="30" width="40" /></a>
+<!-- TYPING SVG: animated terminal intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=5DCAA5&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=Data+%C2%B7+Automation+%C2%B7+AI+Workflows+%C2%B7+Integrations;SQL+Server+%7C+Metabase+%7C+REST+APIs+%7C+ERP;Prompt+Engineering+%7C+Agent+Config+%7C+LLM+Ops;Building+systems+that+actually+work+in+production." alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- BADGES ROW -->
+<p align="center">
+  <a href="mailto:andres123stacruz@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-andres123stacruz%40gmail.com-1D9E75?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=5DCAA5"/>
+  </a>
+  <a href="https://linkedin.com/in/andres-santa-cruz">
+    <img src="https://img.shields.io/badge/LINKEDIN-andres--santa--cruz-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <img src="https://img.shields.io/badge/REMOTE-LATAM%20%2F%20INTL-534AB7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/UTC--3-854F0B?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=EF9F27"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santacruzandres1&show_icons=true&locale=en&layout=compact" alt="santacruzandres1" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santacruzandres1&label=Profile+Views&color=1D9E75&style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-▶ Available-1D9E75?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/English-B1-185FA5?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Spanish-Native-5DCAA5?style=flat-square&labelColor=0d1117"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santacruzandres1&show_icons=true&locale=en" alt="santacruzandres1" /></p>
+---
+
+## `>_` About
+
+```
+I turn messy business operations into structured systems.
+
+SQL · reporting · APIs · automation · ERP · AI-assisted workflows.
+I make data actually useful inside real operations teams — not just in demos.
+```
+
+---
+
+## `>_` Current focus
+
+```
+    AI AGENTS & LLM WORKFLOWS
+    Prompt structures · response validation · XML-based agent config
+    AI-assisted workflows running inside real business operations.
+
+    AUTOMATION & INTEGRATIONS
+    Connecting ERPs, APIs, databases and internal tools.
+    Less manual work. More reliability.
+
+    DATA & REPORTING
+    SQL Server for analysis, reporting and troubleshooting.
+    Metabase dashboards that non-technical teams can actually use.
+```
+
+---
+
+## `>_` What I actually do
+
+```
+✔  Functional + technical analysis in ERP and business environments
+✔  SQL Server queries for reporting, troubleshooting and data validation
+✔  API integrations and endpoint validation across operational systems
+✔  Metabase implementation and reporting environments
+✔  Prompt engineering, XML-based agent config and response validation
+✔  Process improvement across support, data and internal operations
+```
+
+---
+
+## `>_` Skill stack
+
+<p align="center">
+  <img src="assets/skills-data-sql.svg" width="380" alt="Data & SQL"/>
+  <img src="assets/skills-ai-agents.svg" width="380" alt="AI & Agents"/>
+</p>
+<p align="center">
+  <img src="assets/skills-automation.svg" width="380" alt="Automation"/>
+  <img src="assets/skills-business.svg" width="380" alt="Business Systems"/>
+</p>
+
+---
+
+## `>_` Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux,js,python,postman,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-21262d?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-2d2d2d?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+## `>_` What I'm building now
+
+```json
+{
+  "direction":  ["data analytics", "automation engineering", "AI ops"],
+  "building":   "automation toolkit for SMB operations",
+  "learning":   "LangChain · RAG · advanced agent patterns",
+  "open_to":    ["Data Analyst", "Automation Eng.", "AI Ops", "Technical Solutions"],
+  "timezone":   "UTC-3 (flexible)",
+  "languages":  ["Spanish", "English (B1)"]
+}
+```
+
+---
+
+## `>_` GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santacruzandres1&bg_color=0d1117&color=5DCAA5&line=1D9E75&point=5DCAA5&area=true&area_color=0F6E56&hide_border=true&custom_title=Contribution%20Activity"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=santacruzandres1&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5&sideLabels=8b949e&dates=8b949e&stroke=21262d"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F6E56,100:0d1117&height=80&section=footer"/>
